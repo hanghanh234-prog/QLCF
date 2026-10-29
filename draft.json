@@ -1,0 +1,32 @@
+{
+    "ma_phieu": "PN004",
+    "ngay_nhap": "2026-10-29",
+    "ncc_index": 4,
+    "nv_index": 1,
+    "rows": [
+        {
+            "nl_index": 2,
+            "soluong": "5",
+            "donvi_index": 2,
+            "dongia": "30000"
+        },
+        {
+            "nl_index": 5,
+            "soluong": "10",
+            "donvi_index": 3,
+            "dongia": "65000"
+        },
+        {
+            "nl_index": 7,
+            "soluong": "6",
+            "donvi_index": 0,
+            "dongia": "56000"
+        },
+        {
+            "nl_index": 3,
+            "soluong": "12",
+            "donvi_index": 0,
+            "dongia": "32000"
+        }
+    ]
+}
